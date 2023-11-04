@@ -3,7 +3,7 @@
 
 ## The Essence of the Project
 
-This project embodies a synthesis of mathematical exactitude and creative aesthetics. It encourages active exploration of fractal geometry through adjustable variables. Experimentation is welcomed.
+This project embodies a synthesis of mathematics and aesthetics. It encourages active exploration of fractal geometry through adjustable variables. Experimentation is welcomed.
 
 ## Installation
 
