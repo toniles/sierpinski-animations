@@ -3,7 +3,7 @@
 
 ## The Essence of the Project
 
-This project is a celebration, a confluence of the analytical and the whimsical. It is an invitation to manipulate variables, to not merely observe but to partake in the creation of fractal phantasms that might as well be the musings of nature herself. Within these coded confines, fractals unfold in vibrant animation, portraying the Sierpinski Triangle's journey through a series of transformations—each more mesmerizing than the last.
+This initiative embodies a synthesis of mathematical exactitude and creative aesthetics. It encourages active exploration of fractal geometry through adjustable variables. Experimentation is welcomed.
 
 ## Installation
 
