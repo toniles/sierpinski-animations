@@ -20,7 +20,7 @@ Visual samples from the repository:
 
 ## RareSquare Explanation
 
-This script elegantly animates the transformation of the Sierpinski triangle into a dynamic fractal thing. Drawing upon recursion and rotational geometry, underpinned by principles of dynamical systems, the script showcases a temporal evolution of the fractal form.
+This script animates the transformation of the Sierpinski triangle into a dynamic fractal thing. Drawing upon recursion and rotational geometry, underpinned by principles of dynamical systems, the script showcases a temporal evolution of the fractal form.
 
 - **Recursive Algorithm**: Utilizes the `plot_sierpinski_fold` function for recursive midpoint computation and vertex-based rotations, incrementally crafting the fractal depth.
   
